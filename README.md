@@ -15,6 +15,7 @@ This repository contains the practice code for the labs in **IBM-CD0215EN-Skills
 - Lab 6: [Deploy to Kubernetes](labs/06_deploy_to_kubernetes/README.md)
 
 - A change to test webhook triggered pipeline.
+- Another change to test webhook triggered pipeline.
 ## Instructor
 
 John Rofrano, Senior Technical Staff Member, DevOps Champion, @ IBM Research

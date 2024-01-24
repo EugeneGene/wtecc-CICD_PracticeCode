@@ -16,6 +16,7 @@ This repository contains the practice code for the labs in **IBM-CD0215EN-Skills
 
 - A change to test webhook triggered pipeline.
 - Another change to test webhook triggered pipeline.
+- Wed 24 Jan testing of webhook on PR-triggered pipeline.
 ## Instructor
 
 John Rofrano, Senior Technical Staff Member, DevOps Champion, @ IBM Research
